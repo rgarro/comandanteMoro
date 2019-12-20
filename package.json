@@ -1,13 +1,15 @@
 {
   "name": "comandantemoro",
   "version": "1.0.0",
-  "description": "",
+  "description": "threejs Game",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "orbit-controls-es6": "2.0.1",
     "react": "16.12.0",
     "react-dom": "16.12.0",
-    "react-scripts": "3.0.1"
+    "react-scripts": "3.0.1",
+    "three": "0.111.0"
   },
   "devDependencies": {
     "typescript": "3.3.3"
